@@ -14,10 +14,6 @@ A small desktop launcher **for Minecraft** that lets users sign in with their **
 - Tokens are stored **locally** on the user’s device and not shared with third parties.  
 - Users can clear the token cache at any time.
 
-## Contact
-- Email: acc@bruno.zone
-- Website: https://bruno.zone (optional)
-
 ## Disclaimer
 MeBeLauncher is an **unofficial** project and is **not affiliated** with Mojang or Microsoft.
 "Minecraft" is a trademark of Mojang/Microsoft.
